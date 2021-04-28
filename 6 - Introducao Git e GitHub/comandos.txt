@@ -1,0 +1,60 @@
+Windows			Unix
+cd			cd
+dir			ls
+mkdir			mkdir
+del / rmdir		rm -rf
+
+cls			clear
+
+
+git init
+git add *
+git commit -m "commit inicial"
+git status
+
+git log
+
+git config --list
+
+git config --global --unset user.email
+git config --global --unset user.nickname
+
+git config --global user.email "leticiorafael@gmail.com"
+git config --global user.nickname "Rafael-01"
+
+git remote add origin https://github.com/Rafael-01/livro-receitas.git
+git remote -v
+
+$ git remote -v
+origin  https://github.com/Rafael-01/livro-receitas.git (fetch)
+origin  https://github.com/Rafael-01/livro-receitas.git (push)
+Obs: origin é uma alias para não precisar digitar o endereço completo
+
+git push origin master
+
+git pull origin master
+
+acessar repositório phyton / cpython
+opção 1: clicar botão direto e baixar ZIP
+opção 2:
+copiar o link (no caso https://github.com/phyton/cphyton.git
+acessar o git bash no diretório workspace
+git clone https://github.com/phyton/cphyton.git
+cd cphyton/
+ls -a
+git -remote -v
+
+
+
+
+---------------------------------------------
+git config --global init.defaultBranch main
+git remote add avanade https://github.com/Rafael-01/Avanade.git
+
+
+
+
+
+
+
+
