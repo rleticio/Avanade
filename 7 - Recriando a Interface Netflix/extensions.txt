@@ -1,0 +1,35 @@
+live Server
+Auto Rename Tag
+Dracula Official
+
+index > digitar html > clicar html:5 aparece estrutura inicial
+
+alt + shift + seta baixo = copia o conteúdo abaixo
+ctrl + space = navegar caminho pastas
+digitar div.nome_da_classe + <enter> ja cria
+
+google fonts
+
+themoviedb.org
+
+wrapper = container = abrir fechar pão
+
+fontawesome.com (cria icones dentro do html sem precisar ter as imagens)
+
+# WRAPPER = ENVELOPAR
+
+owlcarousel2.github.io/OwlCarousel2/ 
+jQuery
+
+obs: javascript ultima coisa a ser carregada na página,
+por isso coloca no final.
+
+$ metodo de chamar jQuery no arquivo do javascript
+
+https://github.com/felipeAguiarCode/netflix-clone
+www.linkedin.com/in/felipe-aguiar-047
+
+
+
+
+
