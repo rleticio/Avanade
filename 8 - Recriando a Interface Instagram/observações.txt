@@ -1,0 +1,37 @@
+a*2 <enter> cria 2 ancoras
+
+display:flex 
+vira um flex container, todos os itens ficam em linha ocupando ocupando
+o maior espaço daquela linha, passa da borda.
+
+align-items: na vertical, eles vão ficar em ... ex: center;
+justify-content: na horizontal, eles vão ficar em ... ex: center;
+start: começa da esquerda para a direita. 
+space-evenly: separa em espaço de ambos lados e com espaço no meio.
+space-around: espaço maior no meio do que do lados.
+space-between: espaço entre eles, sem nada dos lados.
+
+
+LARGURA = WIDTH
+ALTURA = HEIGHT
+
+width: 60% = 60% do tamanho do body
+
+flex-direction: column;
+justify-content: space-around com columa ele fica na vertical;
+align-items:center com columa ele fica na horizontal;
+
+
+.group:nth-child(1){
+
+}
+nth-child(1) seletor de css que pega os filhos, divs daquele elemento.
+1,2,3,4,5...
+
+
+    border-radius: 50%;
+    overflow:hidden;
+    overflow hidden esconde o que ficar fora da borda redonda.
+
+https://github.com/SpruceGabriela/instagram-dio
+
